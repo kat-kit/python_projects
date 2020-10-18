@@ -14,7 +14,7 @@ et on colle le projet
 nom_utilisateur: est le non utilisateur dans le PC
 nom_ubuntu est le nom qu'on montionne lorsque on accède pour la 1ere fois à l'appli ubuntu
 
-on lance la commande cd comptes-individuels-regions
+on lance la commande: cd nom_projet_telechargé
 et en suite on lance la commande:
 pip install -r requirements.txt
 pour installer les dependance necessaire pour la partie python
