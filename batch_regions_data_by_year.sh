@@ -1,7 +1,6 @@
 #!/bin/bash
-DEBUT=2008
-FIN=2009
-
+DEBUT=2017
+FIN=2018
 echo "download xls files for years 1csv/year"
 
   # création des dossiers pour ranger les fichiers
